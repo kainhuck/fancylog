@@ -1,4 +1,4 @@
-package fansylog
+package fancylog
 
 import (
 	"errors"

@@ -1,5 +1,5 @@
-# fansylog
-fansylog for golang
+# fancylog
+fancylog for golang
 
 # Do Not Star Or Fork
 
