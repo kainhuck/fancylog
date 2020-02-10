@@ -1,0 +1,2 @@
+# fansylog
+fansylog for golang
