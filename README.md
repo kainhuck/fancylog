@@ -14,7 +14,7 @@ go get github.com/kainhuck/fancylog
 ```
 
 ```go
-var Log Logger
+var Log fancylog.Logger
 ConsoleLog := fancylog.NewConsoleLogger("debug")
 FileLog := fancylog.NewFileLogger("debug", "./log", "fancylog.log", 1024*8)
 Log = ConsoleLog
